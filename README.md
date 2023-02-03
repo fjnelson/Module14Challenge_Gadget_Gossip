@@ -1,0 +1,29 @@
+# Module14Challenge_Gadget_Gossip
+
+## Description
+
+Bootcamp: Module 14 Challenge <br />
+Model-View-Controller (MVC) Challenge: Tech Blog <br />
+Codebase correction that follows accessibility standards so that the site is optimized for search engines <br />
+
+## Table of Contents (Optional)
+
+N/A
+
+## Installation
+
+open integrated terminal for index.js and run 'npm i'
+
+## Usage
+Screenshot of readme creation
+![alt text](placeholder) <br />
+![alt text](placeholder)
+
+Video of readme creation
+[Video Demo](placeholder)
+
+## Credits
+
+## License
+
+Please refer to the LICENSE in the repo.
