@@ -32,6 +32,8 @@ Video of readme creation
 [Video Demo](placeholder)
 
 ## Credits
+Credit: sylviaprabudy - https://github.com/sylviaprabudy/tech-blog
+Aug 2020
 
 ## License
 
